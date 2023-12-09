@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+video{
+    width: 100%;
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 100px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    max-width: 100px;
+}
+a{
+    color: chocolate;
+    text-decoration: none;
+}
+
+h2{
+    background-color: red;
+    max-width: 100px;
+    padding-left: 20px;
+    margin-left: 20px;
+    padding: 5px 10px 10px 5px;
+    margin: 5px 10px 5px 10px;
+}
